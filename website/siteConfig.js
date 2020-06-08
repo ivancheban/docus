@@ -80,6 +80,12 @@ const siteConfig = {
     theme: 'default',
   },
 
+  algolia: {
+    apiKey: '0f9f28b9ab9efae89810921a351753b5',
+    indexName: 'github',
+  },
+  gaTrackingId: 'UA-162550995-22',
+
   // Add custom scripts here that would be placed in <script> tags.
   scripts: ['https://buttons.github.io/buttons.js'],
 
