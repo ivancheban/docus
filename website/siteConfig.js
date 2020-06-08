@@ -72,6 +72,11 @@ const siteConfig = {
   },
   */
 
+
+  facebookAppId: '1063643011',
+  facebookComments: true,
+
+
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
   copyright: `Copyright © ${new Date().getFullYear()} Ivan Cheban`,
 
