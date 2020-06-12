@@ -86,8 +86,8 @@ const siteConfig = {
   },
 
   algolia: {
-    apiKey: '0f9f28b9ab9efae89810921a351753b5',
-    indexName: 'github',
+    apiKey: '72758afc606216812733459893710bbc',
+    indexName: 'ivancheban',
   },
   gaTrackingId: 'UA-162550995-22',
 
