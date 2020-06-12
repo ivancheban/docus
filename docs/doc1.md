@@ -8,9 +8,9 @@ This is a test page for  experiments with markdown.
 
 ## Tables
 
-Tables in Markdown can be a tricky thing. I want to experiment with various kinds of tables created with HTML.
+Tables in Markdown can be a tricky thing. I want to experiment with various kinds of tables here.
 
-### Striped Tables
+### HTML Tables
 
 <table class="table table-striped">
   <thead>
@@ -43,42 +43,21 @@ Tables in Markdown can be a tricky thing. I want to experiment with various kind
   </tbody>
 </table>
 
-### Basic Tables
+### Markdown Tables
 
-<table class="table table-hover">
-  <thead>
-    <tr>
-      <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
-    </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td> Larry</td>
-      <td> The Bird</td>
-      <td>@twitter</td>
-    </tr>
-  </tbody>
-</table>
+| Table Heading 1 | Table Heading 2 | Center align | Right align | Table Heading 5 |
+| :-------------- | :-------------- | :----------: | ----------: | :-------------- |
+| Item 1          | Item 2          |    Item 3    |      Item 4 | Item 5          |
+| Item 1          | Item 2          |    Item 3    |      Item 4 | Item 5          |
+| Item 1          | Item 2          |    Item 3    |      Item 4 | Item 5          |
+| Item 1          | Item 2          |    Item 3    |      Item 4 | Item 5          |
+| Item 1          | Item 2          |    Item 3    |      Item 4 | Item 5          |
 
-## Nulla
+## Embedded YouTube
 
-Nulla facilisi. Maecenas sodales nec purus eget posuere. Sed sapien quam, pretium a risus in, porttitor dapibus erat. Sed sit amet fringilla ipsum, eget iaculis augue. Integer sollicitudin tortor quis ultricies aliquam. Suspendisse fringilla nunc in tellus cursus, at placerat tellus scelerisque. Sed tempus elit a sollicitudin rhoncus. Nulla facilisi. Morbi nec dolor dolor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras et aliquet lectus. Pellentesque sit amet eros nisi. Quisque ac sapien in sapien congue accumsan. Nullam in posuere ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin lacinia leo a nibh fringilla pharetra.
+This is an example of a YouTube video.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lVXziMFEqX0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Orci
 
