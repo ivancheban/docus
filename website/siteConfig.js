@@ -52,8 +52,8 @@ const siteConfig = {
 
   /* Colors for website */
   colors: {
-    primaryColor: '#262626',
-    secondaryColor: '#262626',
+    primaryColor: '#3a668c',
+    secondaryColor: '#40709a',
   },
 
   /* Custom fonts for website */
@@ -83,7 +83,7 @@ const siteConfig = {
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
-    theme: 'default',
+    theme: 'atom-one-dark',
   },
 
   algolia: {
