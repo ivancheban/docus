@@ -1,7 +1,7 @@
 {
   "docs": {
     "Documentation": ["doc1"],
-    "First Category": ["doc2"],
+    "Static Site Generators": ["jekyll"],
     "Second Category": ["doc3"]
   }
 }
