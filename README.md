@@ -18,7 +18,7 @@ description: >-
 
 ## Download the theme from the GitHub repo
 
-1. Sign up for GitHub.
+1. Sign up for GitHub.   ![](.gitbook/assets/sign-up-github.png)  
 2. If you already have the account there, sign in.
 3. Go to [Tom's repository](https://github.com/tomjoht/documentation-theme-jekyll).
 4. Click the **Code** button and select **Download ZIP**.
