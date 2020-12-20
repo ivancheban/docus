@@ -18,11 +18,14 @@ description: >-
 
 ## Download the theme from the GitHub repo
 
-1. Sign up for GitHub.   ![](.gitbook/assets/sign-up-github.png)  
-2. If you already have the account there, sign in.
-3. Go to [Tom's repository](https://github.com/tomjoht/documentation-theme-jekyll).
-4. Click the **Code** button and select **Download ZIP**.
-5. Save the ZIP file to your computer and unzip the contents where you like. Now you have the folder with code and content. Let's proceed with building our documentation site from all this.
+1. Sign up for GitHub.
+
+![Sign up for GitHub](.gitbook/assets/sign-up-github.png)
+
+1. If you already have the account there, sign in.
+2. Go to [Tom's repository](https://github.com/tomjoht/documentation-theme-jekyll).
+3. Click the **Code** button and select **Download ZIP**.
+4. Save the ZIP file to your computer and unzip the contents where you like. Now you have the folder with code and content. Let's proceed with building our documentation site from all this.
 
 ## Install Ruby on Windows
 
